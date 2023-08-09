@@ -1,0 +1,12 @@
+AUDIT LIGHTHOUSE (Performance)
+
+Pour le redimmensionnement des images : 
+	- Quelle méthode appliquer ? (Redimensionnement manuel ? script "sharp" ? modification du format manuelle ?...)
+	- Faut-il créer des exemplaires multiples pour chaque image ? Combien ? Ou les stocker ? Comment choisir les dimensions de chacuns ?
+	- Quel interet d'appliquer une width et une height en CSS si les images sont déja dimensionnées ?
+	- N'est-il pas important de conserver les images dans leur qualitée maximale (Photographe)
+
+
+(Minification VS Refactoring ?)
+
+UTILISER DE LA COMPRESSION (sans perte de qualité)

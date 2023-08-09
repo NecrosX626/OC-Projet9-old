@@ -1,0 +1,36 @@
+        PLAN GENERAL
+I/ PERFORMANCES 
+    Optimiser les tailles d'images
+    Optimiser les Formats d'images (WEBP)
+    Réduire la Charge Réseau (?)
+    Determiner width et height pour les images
+
+II/ SEO
+    Optimiser le Code (HTML/CSS/JS)
+
+III/ REFERENCEMENT LOCAL ET RESEAUX SOCIAUX
+    Microdonnées Schema.org
+    Balises Meta
+    Google Rich Snippet pour le client
+
+IV/ ACCESSIBILITE
+    ScreenShots de comparaison WAVE
+    Correction des erreurs WAVE
+
+        MODIFICATIONS DIVERSES
+
+Cursor : pointer sur les filtres de la galerie
+
+
+Détails des Actions : 
+
+I/ Les images
+
+Pour optimiser le site il est necessaire de s'occuper des images qui sont trop lourdes et augmentent considérablement le temps de chargement de la page.
+Pour cela on va d'abord les compresser afin de réduire leur taille, en affectant la qualitée le moins possible
+(Il s'agit d'un site de photographe, préserver la qualité est donc une primordial)
+On va ensuite modifier le format des fichiers pour du WEBP, un format plus optimisé afin de gagner encore en performances (On préconisera WEBP pour sa prise en charge sur un maximum de plateformes)
+Après ces opérations, le poids total des fichiers images du site à été divisé par plus de 6, et ce sans perte notable de qualité.
+Ces modifications apportent un gain de 12% de performances sur le rapport LightHouse
+
+Une optimisation supplémentaire pour les images est de modifier leur nom. Cela peut aider à etre mis en avant par les moteurs de recherches.
